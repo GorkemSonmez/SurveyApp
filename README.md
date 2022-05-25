@@ -1,0 +1,12 @@
+# Survey Application
+ - SpringBoot (Web, JPA, Security,Email Sender) 
+ - AWS(S3)
+ - Google Cloud Console(Kubernetes Engine)
+ - Docker
+ - JWT AUTH0
+ - Zipkin
+ - RabbitMQ
+ - OpenApi(Swagger)
+ - PostgreSQL
+ - React
+ - Lombok
