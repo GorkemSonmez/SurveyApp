@@ -3,7 +3,7 @@
  - AWS(S3)
  - Google Cloud Console(Kubernetes Engine)
  - Docker
- - JWT AUTH0
+ - JWT
  - Zipkin
  - RabbitMQ
  - OpenApi(Swagger)
